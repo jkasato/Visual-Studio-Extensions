@@ -1,0 +1,12 @@
+code --install-extension austin.code-gnu-global
+code --install-extension danielpinto8zz6.c-cpp-compile-run
+code --install-extension donjayamanne.githistory
+code --install-extension donjayamanne.jquerysnippets      
+code --install-extension formulahendry.code-runner        
+code --install-extension geeebe.duplicate
+code --install-extension hars.CppSnippets
+code --install-extension Hridoy.jquery-snippets
+code --install-extension josh-walters.extension-import-export
+code --install-extension mitaki28.vscode-clang
+code --install-extension ms-vscode.cpptools
+code --install-extension Shan.code-settings-sync
